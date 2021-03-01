@@ -1,2 +1,2 @@
-# BlackJack
-Java BlackJack game with GUI interface
+# Blackjack
+Java Blackjack game with GUI interface
